@@ -1,7 +1,4 @@
 # spring_boot_orientdb_sample
-
-# ePayments
-
    This is a sample Spring boot with orient db sample application. It has highly scalable,
    asynchronous microservices with loosely coupled compenents that communicate in a non-blocking way.
 
